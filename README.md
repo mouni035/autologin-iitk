@@ -126,7 +126,7 @@
 # People
 
 ### Author
-- Aravind Potluri \<aravindswami135@gmail.com\>
+- Mounika M \<aravindswami135@gmail.com\>
 
 ### Contributors
 - Abhinav Anand (CSE IITK): Thanks for providing the inital basic script - v1.0.0.
